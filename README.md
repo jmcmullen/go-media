@@ -1,6 +1,6 @@
-# go-media-nuxt
+# Go Media Test
 
-> Nuxt.js technical challenge for GoMedia
+Demo: https://go-media-test.netlify.com/
 
 ## Getting Started
 
